@@ -1,5 +1,5 @@
 {
-    "name": "leosarli/disarli-aws-service-discovery-php",
+    "name": "leodisarli/disarli-aws-service-discovery-php",
     "description": "PHP library to use aws service discovery",
     "version": "1.0.0",
     "type": "library",
